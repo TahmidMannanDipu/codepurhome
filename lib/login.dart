@@ -29,6 +29,10 @@ class LoginPage extends StatelessWidget {
                         labelText: 'Username',
                       ),
                     ),
+<<<<<<< HEAD
+=======
+                    SizedBox(height: 20),
+>>>>>>> b209651 (Your commit message here)
                     TextField(
                       obscureText: true,
                       decoration: InputDecoration(
@@ -36,7 +40,11 @@ class LoginPage extends StatelessWidget {
                         labelText: 'Password',
                       ),
                     ),
+<<<<<<< HEAD
                     SizedBox(height: 30),
+=======
+                    SizedBox(height: 200),
+>>>>>>> b209651 (Your commit message here)
                     SizedBox(
                       height: 50,
                       width: 300,
